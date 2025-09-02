@@ -8,8 +8,8 @@ To install the required dependencies, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nexuslux/Multimodal-voice-assistant
-    cd multimodal-voice-assistant
+    git clone https://github.com/raj2802abhishek/multi-modal-AI-voice-assistant.git
+cd multi-modal-AI-voice-assistant
     ```
 
 2. Create a virtual environment (optional but recommended):
